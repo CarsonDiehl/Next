@@ -5,7 +5,7 @@ const GitHubLink = () => {
     <div>
       <p>
         Check out the code on GitHub:
-        <a href="https://github.com/your-username/your-repo" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/CarsonDiehl/Next.git" target="_blank" rel="noopener noreferrer">
           GitHub Repository
         </a>
       </p>
